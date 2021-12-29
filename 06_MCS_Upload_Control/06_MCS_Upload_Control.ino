@@ -8,7 +8,7 @@
 #define LED_PIN 7
 
 // Assign AP ssid / password here
-#define _SSID "DaBear"
+#define _SSID "DaBear" // change here for different WiFi AP
 #define _KEY  "100godbl"
 
 #define SENSOR_READ_PERIOD  2000
